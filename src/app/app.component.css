@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: azure;
+    font-size: 50px;
+}
+
+p{
+    color: azure;
+    font-size: 20px;
+}
+
+.apres{
+    position: relative;
+    left: 200px;
+    top:150px;
+    
+}
+
+.nome{
+    font-size: 50px;
+    color: white;
+}
